@@ -1,0 +1,40 @@
+                           Создание бота в Telegram
+
+1. Заходим в телеграмм.
+2. В строке поиска ввести "@BotFather".
+Переходим в диалог и начинаем "общение" (/start).
+Создаем бота (/newbot) и называем его уникалиным именем.
+3. В сообщении о подтверждении создания бота будет его токен (пример "5104644082:AAHUEEBA1RwTrsol8WRW_g29psU4gfeEsE8").
+Он нам понадобится позже.
+                           Теперь нужно узнать iD получателя
+1. В строке поиска(в Telegram) ищем @GetMyID.
+2. В диалоге нажимаем /star и бот сразу выдает ваш ID (пример "411868238").
+Проблема этого способа в том, что эту процедуру необходимо проделать получателю.
+
+Теперь имея ID получателя и токен бота переходим в код и заполняем необходимые поля.
+
+                                                            !!!!!!!!!!!!!!!!!!!!!!ВАЖНО!!!!!!!!!!!!!!!!!!!!!!!!!!
+Чтобы наш бот мог отправлять сообщения кому-либо нужно:
+Пользователю, который получает рассылку был "подписан" на нашего бота.
+Это значит, что человек должен зайти найти нашего бота и вступить с ним в "диалог"(нажать кнопку "/start").
+
+
+                            Creating a bot in Telegram
+
+1. We go to the telegram.
+2. "@BotFather" will appear in the search bar.
+We pass into the dialogue and start "communication" (/start).
+Create a bot (/newbot) and give it a unique name.
+3. In the near future, the confirmation of the creation of the bot will be its token (example "5104644082:AAHUEEBA1RwTrsol8WRW_g29psU4gfeEsE8").
+He us later later.
+                           Now you need to know the recipient's ID
+1. At the beginning of the search (in Telegram) we are looking for @GetMyID.
+2. In the dialog, press /star and the bot immediately issues your ID (example "411868238").
+The problem is that this needs to be done by the recipient.
+
+Now the recipient's persistent ID and bot token go into the code and fill in the required fields.
+
+                                                            !!!!!!!!!!!!!!!!!!!!!!!IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!! !!
+Our bot can send the necessary messages to anyone:
+The user who receives the newsletter has been "subscribed" to our bot.
+This means that a person must go into a "dialogue" with him (press the "/start" button).
