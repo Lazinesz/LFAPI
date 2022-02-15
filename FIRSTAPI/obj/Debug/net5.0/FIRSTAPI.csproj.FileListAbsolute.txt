@@ -1,0 +1,16 @@
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\bin\Debug\net5.0\FIRSTAPI.exe
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\bin\Debug\net5.0\FIRSTAPI.deps.json
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\bin\Debug\net5.0\FIRSTAPI.runtimeconfig.json
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\bin\Debug\net5.0\FIRSTAPI.runtimeconfig.dev.json
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\bin\Debug\net5.0\FIRSTAPI.dll
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\bin\Debug\net5.0\ref\FIRSTAPI.dll
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\bin\Debug\net5.0\FIRSTAPI.pdb
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\FIRSTAPI.csproj.AssemblyReference.cache
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\FIRSTAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\FIRSTAPI.AssemblyInfoInputs.cache
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\FIRSTAPI.AssemblyInfo.cs
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\FIRSTAPI.csproj.CoreCompileInputs.cache
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\FIRSTAPI.dll
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\ref\FIRSTAPI.dll
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\FIRSTAPI.pdb
+C:\Users\256bit.by\source\repos\FIRSTAPI\FIRSTAPI\obj\Debug\net5.0\FIRSTAPI.genruntimeconfig.cache
